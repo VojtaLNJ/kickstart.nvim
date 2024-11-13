@@ -8,5 +8,7 @@ return {
   },
   {
     --'let-def/texpresso.vim',
+    --require('texpresso').attach(),
+    --require('texpresso').texpresso_path == 'wsl /home/vojta/texpresso/build/texpresso-tonic',
   },
 }
